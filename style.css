@@ -1,0 +1,53 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+   
+}
+.App{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 600px;
+    height: 100%;
+    padding: 10px;
+    background-color: rgb(227, 243, 243);
+    transition: box-shadow 0.3s ease;
+}
+.App:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+label{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    font-weight: bold;
+    margin: 3px;
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    margin-top: 0px;
+    margin-left: 27px;
+}
+button{ 
+    margin: 10px 180px 10px 180px;
+    height: 35px;
+    border-radius: 10px;
+    border: none;
+    color: black;
+    background-color: rgb(215, 225, 224);
+    border: 2px solid gray;
+    font-size: large;
+    font-weight: bolder;
+    transition: box-shadow 0.5s ease;
+}
+button:hover{
+    background-color: grey;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.countryBox{
+    height: 23px;
+}
