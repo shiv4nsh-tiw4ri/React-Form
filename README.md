@@ -1,4 +1,4 @@
-# Link 🔗: https://shiv4nsh-tiw4ri.github.io/React-Form/ 
+# Link 🔗: https://shiv4nsh-tiw4ri.github.io/form/ 
 # Developed functional React forms: 
 Demonstrated proficiency in building interactive user interfaces with multiple input types and validation.
 # Applied responsive design: 
